@@ -97,13 +97,13 @@ Setting `use_fast_kernels` will enable using of Flash Attention or Xformer memor
 
 
 #  Citation
-You can refer to the paper for more results. 
+You can site us using: 
 ```
-@article{ma2024embarrassingly,
-  title={An Embarrassingly Simple Approach for LLM with Strong ASR Capacity},
-  author={Ma, Ziyang and Yang, Guanrou and Yang, Yifan and Gao, Zhifu and Wang, Jiaming and Du, Zhihao and Yu, Fan and Chen, Qian and Zheng, Siqi and Zhang, Shiliang and others},
-  journal={arXiv preprint arXiv:2402.08846},
-  year={2024}
+@article{pandey2026dynamic,
+  title={Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition},
+  author={Pandey, Isha and Mittal, Ashish and Bahuguna, Vartul and Ramakrishnan, Ganesh},
+  journal={arXiv preprint arXiv:2601.19451},
+  year={2026}
 }
 ```
 
